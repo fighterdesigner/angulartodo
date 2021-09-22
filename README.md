@@ -1,6 +1,6 @@
 # Angulartodo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.6.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.6, and it is a project for making todos you could delete and edit as well as add them.
 
 ## Development server
 
